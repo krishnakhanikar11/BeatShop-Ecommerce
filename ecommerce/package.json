@@ -1,6 +1,6 @@
 {
   "name": "sanity-ecommerce",
-  "license": "MIT",
+  "license": "MIT license",
   "version": "0.1.0",
   "private": true,
   "scripts": {
